@@ -1,0 +1,713 @@
+(['C:\\Users\\Ho Tieu Bao\\OneDrive\\Máy tính\\vinh vien\\VĨNH '
+  'VIỄN\\Panupong-demo.py'],
+ ['C:\\Users\\Ho Tieu Bao\\OneDrive\\Máy tính\\vinh vien\\VĨNH VIỄN'],
+ ['codecs'],
+ ['C:\\Users\\Ho Tieu '
+  'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'C:\\Users\\Ho Tieu '
+  'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'C:\\Users\\Ho Tieu '
+  'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'C:\\Users\\Ho Tieu '
+  'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'C:\\Users\\Ho Tieu '
+  'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ {},
+ [],
+ [],
+ False,
+ False,
+ False,
+ '3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_inspect',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('Panupong-demo',
+   'C:\\Users\\Ho Tieu Bao\\OneDrive\\Máy tính\\vinh vien\\VĨNH '
+   'VIỄN\\Panupong-demo.py',
+   'PYSOURCE')],
+ [('subprocess',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\selectors.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\signal.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\inspect.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\typing.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\string.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\copy.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\struct.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\calendar.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\socket.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\optparse.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stat.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\bz2.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\gzip.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\argparse.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\token.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ast.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pprint.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\bisect.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\platform.py',
+   'PYMODULE'),
+  ('pyttsx3',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pyttsx3\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers.sapi5',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pyttsx3\\drivers\\sapi5.py',
+   'PYMODULE'),
+  ('pyttsx3.voice',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pyttsx3\\voice.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
+   'PYMODULE'),
+  ('comtypes.gen',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py',
+   'PYMODULE'),
+  ('comtypes',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\__init__.py',
+   'PYMODULE'),
+  ('comtypes._meta',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\_meta.py',
+   'PYMODULE'),
+  ('comtypes._comobject',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\_comobject.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\queue.py',
+   'PYMODULE'),
+  ('comtypes.typeinfo',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\typeinfo.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('comtypes.hresult',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\hresult.py',
+   'PYMODULE'),
+  ('comtypes.errorinfo',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\errorinfo.py',
+   'PYMODULE'),
+  ('comtypes.server',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\server\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.automation',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\automation.py',
+   'PYMODULE'),
+  ('comtypes.safearray',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\safearray.py',
+   'PYMODULE'),
+  ('comtypes.client.dynamic',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\client\\dynamic.py',
+   'PYMODULE'),
+  ('comtypes.client.lazybind',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\client\\lazybind.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\tools\\codegenerator.py',
+   'PYMODULE'),
+  ('comtypes.tools.tlbparser',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\tools\\tlbparser.py',
+   'PYMODULE'),
+  ('comtypes.persist',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\persist.py',
+   'PYMODULE'),
+  ('comtypes.client._code_cache',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\client\\_code_cache.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('comtypes.client._generate',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\client\\_generate.py',
+   'PYMODULE'),
+  ('comtypes.tools.typedesc',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\tools\\typedesc.py',
+   'PYMODULE'),
+  ('comtypes.tools.typedesc_base',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\tools\\typedesc_base.py',
+   'PYMODULE'),
+  ('comtypes.tools',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\tools\\__init__.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\__future__.py',
+   'PYMODULE'),
+  ('comtypes.messageloop',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\messageloop.py',
+   'PYMODULE'),
+  ('comtypes._safearray',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\_safearray.py',
+   'PYMODULE'),
+  ('comtypes.npsupport',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\npsupport.py',
+   'PYMODULE'),
+  ('comtypes.GUID',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\GUID.py',
+   'PYMODULE'),
+  ('comtypes.patcher',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\patcher.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('comtypes.client',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\client\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.client._events',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\client\\_events.py',
+   'PYMODULE'),
+  ('comtypes.connectionpoints',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\connectionpoints.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers.dummy',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pyttsx3\\drivers\\dummy.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pyttsx3\\drivers\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3.six',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pyttsx3\\six.py',
+   'PYMODULE'),
+  ('pyttsx3.engine',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pyttsx3\\engine.py',
+   'PYMODULE'),
+  ('pyttsx3.driver',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pyttsx3\\driver.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\os.py',
+   'PYMODULE'),
+  ('colorama',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\colorama\\__init__.py',
+   'PYMODULE'),
+  ('colorama.ansitowin32',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\colorama\\ansitowin32.py',
+   'PYMODULE'),
+  ('colorama.winterm',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\colorama\\winterm.py',
+   'PYMODULE'),
+  ('colorama.ansi',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\colorama\\ansi.py',
+   'PYMODULE'),
+  ('colorama.initialise',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\colorama\\initialise.py',
+   'PYMODULE'),
+  ('colorama.win32',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\colorama\\win32.py',
+   'PYMODULE')],
+ [('python310.dll',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\python310.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('pythoncom310.dll',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pywin32_system32\\pythoncom310.dll',
+   'BINARY'),
+  ('pywintypes310.dll',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pywin32_system32\\pywintypes310.dll',
+   'BINARY'),
+  ('select',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_win32sysloader',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\Ho Tieu '
+   'Bao\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\libffi-7.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'C:\\Users\\Ho Tieu Bao\\OneDrive\\Máy tính\\vinh vien\\VĨNH '
+   'VIỄN\\build\\Panupong-demo\\base_library.zip',
+   'DATA')],
+ [])
